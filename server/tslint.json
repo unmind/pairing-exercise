@@ -3,8 +3,9 @@
   "extends": ["tslint:recommended"],
   "jsRules": {},
   "rules": {
-    "trailing-comma": [false],
-    "only-arrow-functions": [false]
+    "trailing-comma": false,
+    "only-arrow-functions": false,
+    "no-console": false
   },
   "linterOptions": {
     "exclude": ["**/*.js"]

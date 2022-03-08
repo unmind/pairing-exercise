@@ -23,7 +23,7 @@ describe("Checkin", () => {
     });
   });
 
-  describe("when a user has not added a comment", () => {
+  describe("(TODO - feature not implemented yet): when a user has not added a comment", () => {
     test("clicking submit does not save a checkin", () => {
       render(<Checkin />);
 
