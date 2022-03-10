@@ -2,6 +2,10 @@
 
 A simple TypeScript mood checkin application, built in React and Express
 
+# Instructions
+
+Before your interview please clone this repo and check you can get the application running, following the steps below. Feel free to take a bit of a look around the codebase too - though we recommend spending no more than 30 - 60 minutes in total
+
 
 # Prerequisites
 
